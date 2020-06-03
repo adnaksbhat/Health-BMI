@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="error">Cannot be empty</string>
+</resources>
